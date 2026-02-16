@@ -24,7 +24,7 @@ The goal of this repo is to track my progress, practice real-world development s
 
 ### Foundations
 - **odin-recipes** – A basic HTML website to practice semantic HTML, links, images, and Git workflow
-- **calculator**  - A browser-based calculator built with JavaScript to practice DOM manipulation, event handling, and application logic.
+- **odin-calculator**  - A browser-based calculator built with JavaScript to practice DOM manipulation, event handling, and application logic.
 - *(More projects coming soon)*
 
 ---
